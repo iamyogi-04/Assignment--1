@@ -12,7 +12,6 @@ body{
 .first-container{
     width: 100%;
     background-color: #f2f2f2;
-    padding: 30px;
     height: 100vh;
 }
 .left-container{
@@ -20,17 +19,25 @@ body{
     width: 50%;
     margin-top: 30vh;
     height: 30vh;
+    text-align: center;
 }
 .head1{
     width: 50%;
+    margin: auto;
 }
 .para1{
     width: 50%;
+    margin: auto;
+    margin-top: 20px;
 }
 .frame1{
     width: 50%;
     height: 70%;
     margin-top: 15vh;
+}
+.button1{
+    margin-top: 20px;
+
 }
 button{
     color: white;
@@ -39,21 +46,26 @@ button{
     border-radius: 7px;
     width: 150px;
     border: none;
+    margin-top: 5vh;
 }
 .second-container{
     width: 100%;
-    background-color: #f2f2f2;
-    padding: 30px;
-    height: 100vh;
+    height: 40vh;
     text-align: center;
+    background-color: #f2f2f2;
 }
 .para2{
     width: 50%;
-    margin-left: 320px;
+    margin: auto;
+}
+.third-container{
+    width: 100%;
+    background-color: #f2f2f2;
+    text-align: center;
 }
 .frame2{
     width: 50%;
-    height: 60%;
-    margin-block: 20px;
-
+    margin: auto;
+    height: 50vh;
 }
+
